@@ -32,7 +32,7 @@ Referências externas:
 - [Sombra - Top 10 FinTech Apps in 2018](https://sombrainc.com/top-10-fintech-apps-in-2018)
 - [Quora - What are some exciting ideas in Fintech?](https://www.quora.com/What-are-some-exciting-ideas-in-Fintech-I-am-looking-to-build-something-in-the-space-but-am-wondering-where-to-begin-and-what-interesting-ideas-are-out-there-Blockchain-and-decentralized-finance-along-with-crowdfunding-loans-are-compelling)
     - Personal Finance
-        1. [Acorns - Invest, Earn, Grow, Spend, Later | Acorns](https://www.acorns.com/) `investimentos`
+        1. [Acorns - Invest, Earn, Grow, Spend, Later | Acorns](https://www.acorns.com/)
         2. [Budget Tracker & Planner | Free Online Money Management | Mint](https://www.mint.com/)
         3. [NerdWallet: Make all the right money moves](https://www.nerdwallet.com/)
 
