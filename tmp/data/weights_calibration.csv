@@ -1,0 +1,51 @@
+question,answer,answers_0,answers_1,answers_2,answers_3
+Você poupa?,Sempre,,,,
+,Às vezes,,,x,x
+,Raramente,,x,,
+,Nunca,x,,,
+Para que poupa?,Reserva de emergencia,,,,x
+,Realizar sonhos,,x,x,
+,Previdência privada,,,,
+Você poupa o máximo que pode?,Poupo o máximo possível,,,,
+,Poderia guardar mais,,,x,x
+,Poderia começar a guardar mais vezes,,x,,
+O que você usa do banco?,Cheque especial,x,x,,
+,Cartão,x,x,x,x
+,Empréstimo,x,x,,
+,Consórcio,,,,
+,Financiamento,x,x,x,x
+Você entende os produtos que usa?,Entendo exatamente,,,,
+,Mais ou menos,,,x,x
+,Não entendo direito,x,x,,
+Os produtos que você usa representam quanto do seu salário?,0%,,,,
+,25%,,,,x
+,50%,x,x,x,
+,75%,,,,
+,100%,,,,
+Você paga suas contas em dia?,Sempre,,,,x
+,Quase sempre,,,x,
+,Raramente,x,x,,
+,Nunca,,,,
+Quanto tempo você demoraria para pagar suas parcelas?,1 mês,,,,
+,6 meses,,,,x
+,1 ano,,,,
+,5 anos ou mais,x,x,x,
+Suas contas fixas represetam quanto do seu salário?,50% ou menos,,,x,x
+,70%,x,,,
+,90%,,x,,
+,100%,,,,
+Você tem algum seguro?,Imóvel,,,,
+,Veículo,,,x,x
+,Vida,,,,
+,Convênio médico,,,x,x
+Você gasta mais do que ganha?,Sim,x,,,
+,Não,,x,x,x
+Como você organiza suas finanças?,Com aplicativos,,,,
+,Planilhas no computador,,,,x
+,Anotações,,,x,x
+,Não organizo,x,x,,
+Você tem muitas dívidas?,Não tenho,,,,x
+,"Sim, mas estão sob controle",,x,x,
+,Sim e estão me complicando,,,,
+,Sim e não sei o que fazer!,,,,
+TARGET,,0,1,2,3
