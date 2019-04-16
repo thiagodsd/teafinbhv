@@ -1,0 +1,66 @@
+question,answer,w0,w1,w2,w3,w4,button
+Você poupa?,Sempre,0.00,0.10,0.20,0.50,0.70,r
+,Às vezes,0.10,0.40,0.40,0.30,0.20,
+,Raramente,0.30,0.30,0.30,0.20,0.10,
+,Nunca,0.60,0.20,0.10,0.00,0.00,
+,,0,0,0,0,0,
+Para que poupa?,Reserva de emergencia,0.00,0.00,0.10,0.10,0.20,r
+,Realizar sonhos,0.10,0.10,0.30,0.40,0.50,
+,Previdência privada,0.00,0.00,0.10,0.20,0.30,
+,,0,0,0,0,0,
+,,0,0,0,0,0,
+Você poupa o máximo que pode?,Poupo o máximo possível,0.40,0.40,0.20,0.50,0.60,r
+,Poderia guardar mais,0.20,0.30,0.30,0.30,0.40,
+,Poderia começar a guardar mais vezes,0.40,0.30,0.50,0.20,0.00,
+,,0,0,0,0,0,
+,,0,0,0,0,0,
+O que você usa do banco?,Cheque especial,0.40,0.30,0.20,0.10,0.00,c
+,Cartão,0.10,0.08,0.02,0.08,0.10,
+,Empréstimo,0.30,0.20,0.10,0.05,0.05,
+,Consórcio,0.05,0.20,0.30,0.35,0.10,
+,Financiamento,0.20,0.30,0.35,0.10,0.05,
+Você entende os produtos que usa?,Entendo exatamente,0.00,0.20,0.30,0.50,0.80,r
+,Mais ou menos,0.20,0.50,0.40,0.30,0.20,
+,Não entendo direito,0.80,0.30,0.30,0.20,0.00,
+,,0,0,0,0,0,
+,,0,0,0,0,0,
+Os produtos que você usa representam quanto do seu salário?,0%,0.00,0.00,0.10,0.30,0.60,r
+,25%,0.00,0.10,0.20,0.40,0.50,
+,50%,0.25,0.20,0.20,0.15,0.15,
+,75%,0.40,0.30,0.25,0.15,0.05,
+,100%,0.60,0.50,0.20,0.00,0.00,
+Você paga suas contas em dia?,Sempre,0.00,0.10,0.20,0.50,0.70,r
+,Quase sempre,0.10,0.40,0.40,0.30,0.20,
+,Raramente,0.30,0.30,0.30,0.20,0.10,
+,Nunca,0.60,0.20,0.10,0.00,0.00,
+,,0,0,0,0,0,
+Quanto tempo você demoraria para pagar suas parcelas?,1 mês,0.00,0.10,0.20,0.50,0.70,r
+,6 meses,0.10,0.40,0.40,0.30,0.20,
+,1 ano,0.30,0.30,0.30,0.20,0.10,
+,5 anos ou mais,0.60,0.20,0.10,0.00,0.00,
+,,0,0,0,0,0,
+Suas contas fixas represetam quanto do seu salário?,50% ou menos,0.00,0.00,0.20,0.30,0.60,r
+,70%,0.10,0.30,0.30,0.50,0.30,
+,90%,0.30,0.30,0.30,0.20,0.10,
+,100%,0.60,0.40,0.20,0.00,0.00,
+,,0,0,0,0,0,
+Você tem algum seguro?,Imóvel,0.00,0.00,0.10,0.30,0.30,r
+,Veículo,0.00,0.10,0.10,0.40,0.40,
+,Vida,0.00,0.00,0.10,0.30,0.40,
+,Convênio médico,0.10,0.10,0.20,0.40,0.60,
+,,0,0,0,0,0,
+Você gasta mais do que ganha?,Sim,0.80,0.70,0.30,0.20,0.10,r
+,Não,0.20,0.30,0.70,0.80,0.90,
+,,0,0,0,0,0,
+,,0,0,0,0,0,
+,,0,0,0,0,0,
+Como você organiza suas finanças?,Com aplicativos,0.00,0.10,0.40,0.50,0.60,c
+,Planilhas no computador,0.10,0.20,0.30,0.50,0.70,
+,Anotações,0.10,0.20,0.30,0.50,0.40,
+,Não organizo,0.80,0.50,0.20,0.10,0.00,
+,,0,0,0,0,0,
+Você tem muitas dívidas?,Não tenho,0.10,0.30,0.50,0.60,0.70,r
+,"Sim, mas estão sob controle",0.40,0.60,0.50,0.40,0.30,
+,Sim e estão me complicando,0.40,0.40,0.30,0.20,0.00,
+,Sim e não sei o que fazer!,0.50,0.10,0.00,0.00,0.00,
+,,0,0,0,0,0,
