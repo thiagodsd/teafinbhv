@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
+/*
 body {font-family: 'Quicksand', sans-serif;}
 
 h1 {text-align: justify;
-    font-size: 1.5em;
+    font-size: 2.5em;
     font-weight: bold;
     clear: both;}
 
 p {text-align: justify;
    text-justify: inter-word;}
+*/
    
 button{
   display: inline-block;
@@ -77,4 +81,59 @@ button:hover{
 .form-radio:checked
 {
      background-color: #ff7800;
+}
+
+/*********************************************
+ * CHECKBOX
+ *********************************************/
+.form-check
+{
+     -webkit-appearance: none;
+     -moz-appearance: none;
+     appearance: none;
+     display: inline-block;
+     position: relative;
+     background-color: #dedede;
+     color: #666;
+     top: 10px;
+     height: 30px;
+     width: 30px;
+     border: 0;
+     border-radius: 7px;
+     cursor: pointer;     
+     margin-right: 7px;
+     outline: none;
+}
+.form-check:checked::before
+{
+     position: absolute;
+     left: 11px;
+     top: 7px;
+     content: '\02143';
+     transform: rotate(40deg);
+     color: #ffffff;
+    font-weight: bold;
+}
+.form-check:hover
+{
+     background-color: #bebebe;
+}
+.form-check:checked
+{
+     background-color: #ff7800;
+}
+
+
+.reveal h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2.5em;
+  text-align: left;
+  margin-bottom: 1.5em;
+}
+
+.reveal p {
+   font-family: 'Playfair Display', serif;
+   text-align: justify;
+   text-justify: inter-word;
+   font-size: 1.25em;
 }
