@@ -249,7 +249,7 @@
 
                     [0.7, 0.7, 0.4, 0.3, 0.0] ],
       img: "insurance",
-      button: "r"
+      button: "c"
     },
 
 {
