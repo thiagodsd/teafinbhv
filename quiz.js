@@ -177,7 +177,7 @@
       question: "Quanto tempo você demoraria para pagar todos os seus parcelamentos atuais?",
       answers: {
 
-        0:"Entre 1mês e 6 meses..",
+        0:"Entre 1 mês e 6 meses..",
 
         1:"Entre 6 meses e 1 ano.",
 
