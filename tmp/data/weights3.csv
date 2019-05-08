@@ -1,0 +1,54 @@
+question;answer;w0;w1;w2;w3;w4;button;img
+Você costuma guardar uma graninha?;Sim, sempre guardo uma parte, com disciplina.;0;0.1;0.3;0.4;0.6;r;saving
+;Geralmente, procuro manter a regularidade, mas as vezes dou uma pedalada.;0.1;0.2;0.4;0.5;0.3;;
+;Eu tento, mas confesso que não é um hábito.;0.1;0.5;0.4;0.3;0.1;;
+;Nunca sobra nada do meu salário para eu guardar!;0.1;0.4;0.2;0;0;;
+Se você tem um dinheirinho guardado, o que planeja para ele?;Planejo usar em uma emergência, nunca se sabe o que está por vir.;0;0;0.1;0.2;0.5;c;saving2
+;Estou juntando para um sonho que quero realizar.;0.1;0.2;0.4;0.7;0.3;;
+;Penso no futuro e guardo para minha aposentadoria.;0;0;0.1;0.4;0.4;;
+;Estou só guardando, mas ainda não planejei nada específico.;0.1;0.2;0.3;0.2;0.1;;
+;Não tenho dinheiro guardado.;0.4;0.3;0.1;0;0;;
+Você poupa o máximo que pode?;Sim, já fiz as contas e poupo o máximo possível.;0.4;0.4;0.2;0.3;0.6;r;saving3
+;Acho que poderia guardar um pouco mais.;0.1;0.2;0.3;0.5;0.3;;
+;Penso em adquirir esse hábito.;0.2;0.3;0.5;0.4;0.2;;
+;Poxa, realmente não consigo poupar!;0.4;0.3;0.5;0.2;0;;
+Atualmente, quais dos produtos abaixo você usa?;Cheque especial;0.4;0.3;0.2;0.1;0;c;card
+;Cartão de crédito;0.1;0.2;0.02;0.3;0.2;;
+;Empréstimo;0.3;0.2;0.1;0.05;0.05;;
+;Consórcio;0.05;0.2;0.3;0.6;0.1;;
+;Financiamento;0.2;0.3;0.35;0.1;0.05;;
+;Não uso nenhum desses.;0;0;0;0;0;;
+Sobre os produtos da pergunta anterior, quão bem você os entende?;Entendo bem, sei exatamente como e quando usá-los corretamente.;0;0.2;0.3;0.4;0.6;r;idea
+;Entendo bem alguns deles, mas outros são um verdadeiro mistério.;0.2;0.5;0.4;0.3;0.2;;
+;Não entendo direito, mas acabo usando conforme a necessidade.;0.4;0.5;0.3;0.2;0;;
+Você paga suas contas em dia?;Sempre pago, não gosto de atrasar as contas!;0;0.1;0.2;0.5;0.7;r;bill
+;Quase sempre, as vezes esqueço de alguma.;0.1;0.4;0.5;0.4;0.2;;
+;Raramente, eu sempre esqueço, mas quando lembro a tempo, corro e pago.;0.3;0.5;0.3;0.2;0.1;;
+;Nunca, sempre me perco com as datas de vencimento das contas!;0.6;0.2;0.1;0;0;;
+Quanto tempo você demoraria para pagar todos os seus parcelamentos atuais?;Entre 1mês e 6 meses..;0;0.1;0.2;0.5;0.7;r;calendar
+;Entre 6 meses e 1 ano.;0.1;0.4;0.4;0.7;0.2;;
+;Entre 1 e 5 anos.;0.3;0.5;0.3;0.2;0.1;;
+;Mais de 5 anos.;0.7;0.2;0.1;0;0;;
+Suas contas fixas represetam quanto do seu salário?;25% ou menos.;0;0;0.2;0.3;0.6;r;balance2
+;Entre 25% e 50%.;0.1;0.3;0.3;0.5;0.3;;
+;Entre 50% e 75%.;0.3;0.4;0.6;0.4;0.1;;
+;Mais de 75%.;0.7;0.6;0.3;0.1;0;;
+Você tem algum tipo de seguro contratado atualmente?;Imóvel;0;0;0.1;0.3;0.6;r;insurance
+;Veículo;0;0.1;0.1;0.4;0.5;;
+;Vida;0;0;0.1;0.3;0.5;;
+;Convênio médico;0.1;0.1;0.5;0.4;0.6;;
+;Não tenho.;0.7;0.7;0.4;0.3;0;;
+Você gasta mais do que ganha?;Sim, um aumentinho de salário cairia bem…;0.8;0.7;0.3;0.2;0.1;r;management
+;Não, consigo manter a disciplina.;0.2;0.3;0.7;0.4;0.4;;
+Como você organiza suas finanças?;Gosto de tecnologia, uso aplicativos e/ou ferramentas feitas pra isso!;0;0.1;0.4;0.6;0.5;c;analytics
+;Minha querida planilha me ajuda com isso.;0.1;0.2;0.3;0.6;0.5;;
+;Sou old school, caneta, papel e calculadora é tudo que eu preciso.;0.1;0.2;0.3;0.6;0.5;;
+;Não costumo organizar de jeito nenhum.;0.8;0.5;0.2;0.1;0;;
+Você tem muitas dívidas?;Digo com orgulho: não!;0.1;0.3;0.5;0.6;0.7;r;debt
+;Tenho, mas está tudo sob controle, sei o que estou fazendo.;0.4;0.6;0.6;0.6;0.7;;
+;Sim, tenho e sinceramente estou perdendo o controle.;0.4;0.4;0.3;0.2;0;;
+;Tenho e já nem sei o que está acontecendo, acho que preciso de ajuda!;0.5;0.1;0;0;0;;
+Se você parasse de trabalhar hoje, por quanto tempo conseguiria viver no seu padrão de vida atual?;Mais ou menos 1 ano, o suficiente para encontrar um novo emprego.;0;0.1;0.3;0.4;0.7;;shield
+;Conseguiria me manter por uns 6 meses, não dá pra vacilar.;0;0.2;0.5;0.7;0.3;;
+;Viveria do jeito que vivo agora por uns 3 meses, depois teria que apertar o cinto.;0.1;0.6;0.7;0.4;0.2;;
+;Me manteria apenas por 1 mês, teria que achar um novo emprego bem rápido!;0.6;0.6;0.4;0.1;0;;
